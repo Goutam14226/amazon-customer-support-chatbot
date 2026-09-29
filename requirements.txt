@@ -1,0 +1,6 @@
+fastapi==0.141.1
+uvicorn==0.54.0
+pinecone==10.0.0
+huggingface_hub==1.33.0
+pydantic==2.13.5
+numpy
