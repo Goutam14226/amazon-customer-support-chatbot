@@ -20,6 +20,36 @@
 
 ---
 
+## 🚀 Live Deployment
+
+The chatbot is deployed on Render and is publicly accessible.
+
+### 🌐 Live Application
+
+**Live URL:**  
+https://amazon-customer-support-chatbot.onrender.com
+
+### 📚 API Documentation
+
+The project provides interactive FastAPI Swagger documentation.
+
+**Swagger UI:**  
+https://amazon-customer-support-chatbot.onrender.com/docs
+
+### ❤️ Health Check
+
+You can check whether the deployed API is running:
+
+**Health Endpoint:**  
+https://amazon-customer-support-chatbot.onrender.com/health
+
+The endpoint should return:
+
+```json
+{
+  "status": "healthy"
+}
+
 ## 📌 Project Overview
 
 Customer support systems often need to answer questions using company policies, product information, refund rules, delivery policies, return procedures, and payment information.
