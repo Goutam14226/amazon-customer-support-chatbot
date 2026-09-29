@@ -49,7 +49,7 @@ The endpoint should return:
 {
   "status": "healthy"
 }
-
+```
 
 ## 📌 Project Overview
 
