@@ -29,17 +29,6 @@ The chatbot is deployed on Render and is publicly accessible.
 **Live URL:**  
 **[Open the Live Chatbot](https://amazon-customer-support-chatbot.onrender.com)**
 
-The deployed application includes an interactive web interface where users can enter customer-support questions and immediately see the chatbot response.
-
-You can try queries such as:
-
-```text
-Where is my refund?
-
-or
-I want to speak to an agent about my refund.
-```
-
 ### 📚 API Documentation
 
 The project provides interactive FastAPI Swagger documentation.
