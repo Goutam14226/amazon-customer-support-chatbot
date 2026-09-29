@@ -37,7 +37,8 @@ You can try queries such as:
 Where is my refund?
 
 or
-I want to speak to an agent about my refund.```
+I want to speak to an agent about my refund.
+```
 
 ### 📚 API Documentation
 
