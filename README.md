@@ -50,6 +50,7 @@ The endpoint should return:
   "status": "healthy"
 }
 
+
 ## 📌 Project Overview
 
 Customer support systems often need to answer questions using company policies, product information, refund rules, delivery policies, return procedures, and payment information.
